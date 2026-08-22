@@ -23,7 +23,7 @@ Welcome to Property Theme, a comprehensive Next.js-based solution for real estat
 
 ### Prerequisites
 
-- Node.js (version 14 or later)
+- Node.js 24.x
 - npm or yarn
 - Git
 
@@ -77,11 +77,3 @@ This theme is optimized for deployment on Vercel. To deploy:
 For other deployment options, please refer to the [Next.js deployment documentation](https://nextjs.org/docs/deployment).
 
 
-
-## Support
-
-If you encounter any issues or have questions, please file an issue on the GitHub repository.
-
----
-
-We hope you enjoy using Property Theme for your real estate website needs!
